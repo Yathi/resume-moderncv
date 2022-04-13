@@ -1,3 +1,5 @@
+Resume borrowed from moderncv and edited for me. 
+
 #moderncv: a modern curriculum vitae class#
 
 **Moderncv** provides a documentclass for typesetting curricula vitae in various
@@ -11,6 +13,5 @@ Until a decent manual is written, one can always look in the "examples"
 directory for some examples. Documents can be compiled into dvi, ps or pdf.
 
 
-Author: Xavier Danaux <xdanaux@gmail.com><br/>
-Licence: The LaTeX Project Public Li­cense, version 1.3c<br/>
+Original Author: Xavier Danaux <xdanaux@gmail.com><br/>
 URL: https://github.com/xdanaux/moderncv
